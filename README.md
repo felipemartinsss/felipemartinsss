@@ -6,7 +6,7 @@ My name is Felipe and I'm from São Paulo/Brazil. Welcome!
 My career started in 2005 when I entered college to study Computer Science. After that, I reached some accomplishments:
 - Bachelor in Computer Science from Presbiterian University Mackenzie (2005-2009);
 - Sun Certified Java Programmer 6 (2010);
-- MSc. in Computer Science with a specialty in Artificial Intelligence Planning from Institute of Mathematics and Statistics - University of São Paulo (2013);
+- MSc. in Computer Science with a specialty in Artificial Intelligence Planning from Institute of Mathematics and Statistics - University of São Paulo (2010-2013);
 - 2 scientific papers published related to the Master's Degree dissertation (2013, 2015);
 - And since I started, I worked as Systems Analyst/Software Engineer/Developer (what you prefer) in companies like:
     - everis (2008-2010)
