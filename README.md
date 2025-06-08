@@ -17,7 +17,7 @@ I started in Computer Science in 2005 and after that I reached some accomplishme
 
 #### Main tools I've already worked with (or studied) 🧔🏽 🔨:
 
-There a lot of tools! However, not because I'm specialist in all of them. In truth, I have a more generalist profile: 
+There a lot of tools! However, not because I'm specialist in all of them. In truth, I have a more generalist profile.
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50"  />
